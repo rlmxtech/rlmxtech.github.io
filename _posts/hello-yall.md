@@ -10,3 +10,7 @@ tags: [general,linux]
 Hello and welcome to my doc site!
 
 Stay tuned for more content...
+
+```bash
+sudo apt update && sudo apt upgrade -y
+```
