@@ -23,7 +23,7 @@ timezone: America/New_York
 
 title: rlmxTech                          # the main title
 
-tagline: It just means more..code   # it will display as the sub-title
+tagline: The Doc Hub   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Bash, Linux, Debian, oh my, Raspberry Pi, and some MS stuff too!
